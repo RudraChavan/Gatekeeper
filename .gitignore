@@ -1,0 +1,24 @@
+# Build output
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Secrets and local config
+.env
+*.env
+!.env.example
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Course material, not part of this project
+notes/
+*.excalidraw
